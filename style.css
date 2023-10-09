@@ -1,0 +1,26 @@
+/* Add your CSS styles here */
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+
+h1 {
+  color: #007BFF;
+}
+
+h2 {
+  color: red;
+}
+
+p {
+  color: black;
+}
+
+img {
+  max-width: 100%;
+  height: 500px;
+}
+a {
+  display: flex;
+  align-content: center;
+}
